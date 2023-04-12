@@ -26,6 +26,5 @@ if __name__ == "__main__":
     text = input("Insira a string que deseja normalizar: ")
     print()
 
-    # unicode_normalizatoin
     text_n = unicode_normalization(text)
-    print(text_n)  # ex: varios ultimo peca
+    print(text_n)

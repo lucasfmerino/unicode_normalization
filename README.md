@@ -1,3 +1,9 @@
+<div algin='center'>
+    <img src="src/images/unicode_normalization.png" alt="unicode_normalization">
+</div>
+<br>
+
+
 # Unicode Normalization
 Este programa tem a finalidade de normalizar uma string Unicode, removendo caracteres acentuados ou especiais e substituindo-os por caracteres básicos ASCII.
 <br>
