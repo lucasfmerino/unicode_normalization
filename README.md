@@ -20,7 +20,7 @@ $ python unicode_normalization.py
 
 Insira a string que deseja normalizar: ex: vários último peça
 
-ex: vários último peça
+ex: varios ultimo peca
 ```
 <br>
 
